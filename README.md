@@ -36,4 +36,4 @@ A simple Flutter app to track your expenses.
 
 ---
 
-*Created with love by [Your Name](https://github.com/your-username)*
+*Created with love by [Anmol Yadav ❤️](https://github.com/Anmol8729)*
